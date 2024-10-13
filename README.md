@@ -51,29 +51,29 @@ Here are some figures related to the Excel sheets used in this project:
 
 ## VBA Routines/Buttons
 
-### 1. Data and Improvements
-### 2. Best Route: Distance
-### 3. Best Route: Time
-### 4. Register Cities
-### 5. Clear Cities
-### 6. Register Vehicles
-### 7. Clear Vehicles
-### 8. Register Demands
-### 9. Clear Demands
-### 10. Register Products
-### 11. Clear Products
-### 12. Register Fuels
-### 13. Clear Fuels
-### 14. Update Cities
-### 15. Update Times
-### 16. Save Changes
-### 17. Enable Full Screen
-### 18. Disable Full Screen
-### 19. Tab: Solver
-### 20. Tab: Registration
-### 21. Tab: Distances
-### 22. Tab: Times
-### 23. Tab: Dashboard
+- **`1. Data and Improvements`**
+- **`2. Best Route: Distance`**
+- **`3. Best Route: Time`**
+- **`4. Register Cities`**
+- **`5. Clear Cities`**
+- **`6. Register Vehicles`**
+- **`7. Clear Vehicles`**
+- **`8. Register Demands`**
+- **`9. Clear Demands`**
+- **`10. Register Products`**
+- **`11. Clear Products`**
+- **`12. Register Fuels`**
+- **`13. Clear Fuels`**
+- **`14. Update Cities`**
+- **`15. Update Times`**
+- **`16. Save Changes`**
+- **`17. Enable Full Screen`**
+- **`18. Disable Full Screen`**
+- **`19. Tab: Solver`**
+- **`20. Tab: Registration`**
+- **`21. Tab: Distances`**
+- **`22. Tab: Times`**
+- **`23. Tab: Dashboard`**
 
 ## Contact
 
