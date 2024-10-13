@@ -2,7 +2,7 @@
 
 ## Description
 
-This VBA code is designed to work with routing optimization using a Genetic Algorithm (GA) to optimize routes based on both travel time and distance. The methodology is discussed in the article:
+This VBA code is designed to work with **Routing Optimization** using a Genetic Algorithm (GA) to optimize routes based on both travel time and distance. The methodology is discussed in the article:
 - [Improvement in Logistical Efficiency with the Routing Optimization of a Coffee Company in Southern Minas Gerais](Paper.pdf)
 
 The code is intended to run within Excel, allowing users to manage the registration of cities, vehicles, demands, products, fuels, and APIs related to Google Maps or Google Street View. Multi-objective optimizations can be performed in relation to both time and distance.
