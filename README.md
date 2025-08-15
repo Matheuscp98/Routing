@@ -22,9 +22,9 @@ The methodology is discussed in the articles below, and the code is designed to 
 
 In addition to ongoing manuscripts under review, the following public papers are already available:
 
-- **Planejamento de rotas ótimas com algoritmos genéticos: Uma solução para otimização de transporte**  
+- **Optimal route planning with genetic algorithms: A solution for transportation optimization** (*Planejamento de rotas ótimas com algoritmos genéticos: Uma solução para otimização de transporte*)  
   [Read here](https://journals.stellata.com.br/jor/article/view/44/31)
-- **Melhoria na eficiência logística com a otimização de roteirização de uma empresa cafeeira do sul de Minas Gerais**  
+- **Improvement in logistics efficiency through routing optimization of a coffee company in southern Minas Gerais** (*Melhoria na eficiência logística com a otimização de roteirização de uma empresa cafeeira do sul de Minas Gerais*)  
   [Read here](https://www.fai-mg.br/biblio/images/publicacoes/Cientifica/Cientifica2023.pdf#page=49)
 
 ---
