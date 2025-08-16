@@ -2,9 +2,9 @@
 
 ## 📝 Description
 
-This repository contains **VBA code** for **Routing Optimization** using a **Genetic Algorithm (GA)** to optimize routes considering both **travel time** and **distance**.
+This repository contains **Visual Basic for Appliactions (VBA) code** for **Routing Optimization** using a **Genetic Algorithm (GA)** to optimize routes considering both **travel time** and **distance**.
 
-The **methodology** is discussed in the articles below, and the code is designed to run within **Excel**. Users can manage the **registration of cities, vehicles, demands, products, fuels**, and **Google Maps** or **Street View APIs**. The tool allows **multi-objective optimizations** with respect to **time** and **distance**, and all **calculations** and **visualizations** are performed directly in **Excel via VBA**.
+The code is designed to run within **Excel**. Users can manage the **registration of cities, vehicles, demands, products, fuels**, and **Google Maps** or **Street View APIs**. The tool allows **Multiobjective optimization (MO)** with respect to **time** and **distance**, and all **calculations** and **visualizations** are performed directly in **Excel via VBA**.
 
 ---
 
@@ -34,7 +34,7 @@ In addition to ongoing manuscripts under review, the following public papers are
 | Worksheet      | Description                                                              |
 |----------------|--------------------------------------------------------------------------|
 | **Dashboard**  | Shows clients, current route, optimized route (distance & time).         |
-| **Solver**     | Multi-objective optimization via Genetic Algorithm (GA).                 |
+| **Solver**     | Multiobjective optimization (MO) via Genetic Algorithm (GA).                 |
 | **Registration**| Register cities, demands, vehicles, products, fuels.                    |
 | **Distances**  | Matrix of distances between cities.                                      |
 | **Times**      | Matrix of travel times between cities.                                   |
