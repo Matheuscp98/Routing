@@ -2,19 +2,19 @@
 
 ## 📝 Description
 
-This repository contains VBA code for **Routing Optimization** using a Genetic Algorithm (GA) to optimize routes considering both travel time and distance.
+This repository contains **VBA code** for **Routing Optimization** using a **Genetic Algorithm (GA)** to optimize routes considering both **travel time** and **distance**.
 
-The methodology is discussed in the articles below, and the code is designed to run within Excel. Users can manage the registration of cities, vehicles, demands, products, fuels, and Google Maps or Street View APIs. The tool allows multi-objective optimizations with respect to time and distance, and all calculations and visualizations are performed directly in Excel via VBA.
+The **methodology** is discussed in the articles below, and the code is designed to run within **Excel**. Users can manage the **registration of cities, vehicles, demands, products, fuels**, and **Google Maps** or **Street View APIs**. The tool allows **multi-objective optimizations** with respect to **time** and **distance**, and all **calculations** and **visualizations** are performed directly in **Excel via VBA**.
 
 ---
 
 ## 🛠️ How to Use
 
-1. **Clone or download** this repository to your local machine.
-2. **Open** the Excel file containing the VBA macros.
-3. **Enable macros** in Excel.
-4. **Run** the desired VBA routines from the VBA editor or assign them to buttons in your Excel sheets.
-5. The code includes detailed comments and visual figures to help you understand its functionality.
+1. **Clone or download** this repository to your **local machine**.  
+2. **Open** the **Excel file** containing the **VBA macros**.  
+3. **Enable macros** in **Excel**.  
+4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
+5. The code includes **detailed comments** and **visual figures** to help you understand its functionality.  
 
 ---
 
