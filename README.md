@@ -8,16 +8,6 @@ The **methodology** is discussed in the articles below, and the code is designed
 
 ---
 
-## 🛠️ How to Use
-
-1. **Clone or download** this repository to your **local machine**.  
-2. **Open** the **Excel file** containing the **VBA macros**.  
-3. **Enable macros** in **Excel**.  
-4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
-5. The code includes **detailed comments** and **visual figures** to help you understand its functionality.  
-
----
-
 ## 📚 Publications
 
 In addition to ongoing manuscripts under review, the following public papers are already available:
@@ -26,6 +16,16 @@ In addition to ongoing manuscripts under review, the following public papers are
   [Read here](https://journals.stellata.com.br/jor/article/view/44/31)
 - **Improvement in logistics efficiency through routing optimization of a coffee company in southern Minas Gerais** (*Melhoria na eficiência logística com a otimização de roteirização de uma empresa cafeeira do sul de Minas Gerais*)  
   [Read here](https://www.fai-mg.br/biblio/images/publicacoes/Cientifica/Cientifica2023.pdf#page=49)
+
+---
+
+## 🛠️ How to Use
+
+1. **Clone or download** this repository to your **local machine**.  
+2. **Open** the **Excel file** containing the **VBA macros**.  
+3. **Enable macros** in **Excel**.  
+4. **Run** the desired **VBA routines** from the **VBA editor** or assign them to **buttons** in your **Excel sheets**.  
+5. The code includes **detailed comments** and **visual figures** to help you understand its functionality.  
 
 ---
 
